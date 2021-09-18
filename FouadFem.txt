@@ -1,12 +1,12 @@
 {
- "version":"8.93.1",
- "expire881":"365",
- "expire870":"180",
+ "version":"8.95",
+ "expire881":"1000",
+ "expire870":"1000",
  "store":"1",
  "rewards":"",
- "title":"Atualização disponível",
- "description":"A atualização 8.93 está disponível, agora com toast completo. Baixe a nova versão que tem super novidades!.",
- "download":"https://modsalfa.blogspot.com/2020/03/fmwhatsapp.html",
+ "title":"Update available 🛠️",
+ "description":"A new update is available and includes a really cool new option 👀",
+ "download":"https://seulink.online/vD4WnOz",
  "users_premium":"",
  "force":"true"
 }
