@@ -1,12 +1,6 @@
 {
- "version":"9.05",
- "expire881":"1000",
- "expire870":"1000",
- "store":"1",
- "rewards":"",
- "title":"Update available 🛠️",
- "description":"A new update is available and includes a really cool new option 👀",
- "download":"https://seulink.online/vD4WnOz",
- "users_premium":"",
- "force":"true"
+ "version":"9.21",
+ "title":"Atualização disponível v1.11F🛠️",
+ "description":"Uma nova atualização está disponível e vêm corrigindo erros 👏🏻🚀",
+ "download":"https://t.me/s/DGModz/8"
 }
