@@ -1,6 +1,6 @@
 {
- "version":"9.30",
- "title":"Atualização disponível v1.11F🛠️",
+ "version":"9.31",
+ "title":"Atualização disponível v9.30🛠️",
  "description":"Uma nova atualização está disponível e vêm corrigindo erros 👏🏻🚀",
  "download":"https://t.me/s/DGModz/8"
 }
