@@ -1,6 +1,6 @@
 {
  "version":"9.30",
- "title":"Atualização disponível v9.30🛠️",
+ "title":"Atualização disponível v9.30F 🛠️",
  "description":"Uma nova atualização está disponível e vêm corrigindo erros 👏🏻🚀",
- "download":"https://t.me/s/DGModz/8"
+ "download":"https://seulink.digital/YMq8aI"
 }
